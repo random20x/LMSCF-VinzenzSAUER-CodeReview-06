@@ -1,0 +1,15 @@
+.card-img-top {
+    width: 100%;
+    height: 20vw;
+    object-fit: cover;
+}
+
+.breakfast {
+    height: 100%;
+}
+
+body {
+    background-color: rgb(254, 254, 254);
+}
+
+#divheight {}
